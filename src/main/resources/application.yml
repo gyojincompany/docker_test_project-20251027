@@ -3,8 +3,8 @@ spring:
     name: docker_test_project-20251027
 
   datasource:
-    url: jdbc:mysql://mysql_db:3306/testdb1
-#    url: jdbc:mysql://localhost:3306/testdb1
+#    url: jdbc:mysql://mysql_db:3306/testdb1
+    url: jdbc:mysql://localhost:3306/testdb1
     username: root
     password: 12345
 
